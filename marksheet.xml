@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marksheeet>
+	<course>
+		<courseid>CSC401</courseid>
+		<title>AM-IV</title>
+		<TH>32</TH>
+		<IA>08</IA>
+		<DRPR>--</DRPR>
+		<TW>20</TW>
+		<total>100</total>
+	</course>
+
+	<course>
+		<courseid>CSC402</courseid>
+		<title>ECCF</title>
+		<TH>32</TH>
+		<IA>08</IA>
+		<DRPR>--</DRPR>
+		<TW>20</TW>
+		<total>100</total>
+	</course>
+
+	<course>
+		<courseid>CSC403</courseid>
+		<title>DS</title>
+		<TH>32</TH>
+		<IA>08</IA>
+		<DRPR>--</DRPR>
+		<TW>20</TW>
+		<total>100</total>
+	</course>
+
+	<course>
+		<courseid>CSC404</courseid>
+		<title>MS</title>
+		<TH>32</TH>
+		<IA>08</IA>
+		<DRPR>--</DRPR>
+		<TW>20</TW>
+		<total>100</total>
+	</course>
+
+	<course>
+		<courseid>CSC405</courseid>
+		<title>MECHANICS</title>
+		<TH>32</TH>
+		<IA>08</IA>
+		<DRPR>--</DRPR>
+		<TW>20</TW>
+		<total>100</total>
+	</course>
+
+	<course>
+		<courseid>CSC406</courseid>
+		<title>BEE</title>
+		<TH>32</TH>
+		<IA>08</IA>
+		<DRPR>--</DRPR>
+		<TW>20</TW>
+		<total>100</total>
+	</course>
+
+
+	<course>
+		<courseid>CSC407</courseid>
+		<title>AP-1</title>
+		<TH>32</TH>
+		<IA>08</IA>
+		<DRPR>--</DRPR>
+		<TW>20</TW>
+		<total>100</total>
+	</course>
+
+
+	<course>
+		<courseid>CSC408</courseid>
+		<title>BC-1</title>
+		<TH>32</TH>
+		<IA>08</IA>
+		<DRPR>--</DRPR>
+		<TW>20</TW>
+		<total>100</total>
+	</course>
+
+
+	<course>
+		<courseid>CSC409</courseid>
+		<title>CS</title>
+		<TH>32</TH>
+		<IA>08</IA>
+		<DRPR>--</DRPR>
+		<TW>20</TW>
+		<total>100</total>
+	</course>
+
+
+	<course>
+		<courseid>CSC410</courseid>
+		<title>IT</title>
+		<TH>32</TH>
+		<IA>08</IA>
+		<DRPR>--</DRPR>
+		<TW>20</TW>
+		<total>100</total>
+	</course>
+</marksheeet>
